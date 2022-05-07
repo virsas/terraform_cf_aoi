@@ -1,4 +1,4 @@
-# terraform_cf_aoi
+# terraform_cf_oai
 
 Terraform module to create Cloudfront Origin Access identity to use in s3 access without the need to make the bucket public
 
