@@ -18,7 +18,7 @@ none
 # Module
 ##################
 module "cf-oai-default" {
-  source = "github.com/virsas/terraform_cf_oai"
+  source = "git::https://github.com/virsas/terraform_cf_oai.git?ref=v1.0.0"
   name = "default-cloudfront-oai"
 }
 ```
